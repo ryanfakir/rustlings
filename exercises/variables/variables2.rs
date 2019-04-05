@@ -2,41 +2,13 @@
 // Make me compile! Scroll down for hints :)
 
 fn main() {
-    let x;
+    let x: i8 = 0;
     if x == 10 {
         println!("Ten!");
     } else {
         println!("Not ten!");
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // The compiler message is saying that Rust cannot infer the type that the
 // variable binding `x` has with what is given here.

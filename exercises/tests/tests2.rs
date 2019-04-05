@@ -10,34 +10,6 @@ mod tests {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Like the previous exercise, you don't need to write any code to get this test to compile and
 // run. `assert_eq!` is a macro that takes two arguments and compares them. Try giving it two
 // values that are equal! Try giving it two arguments that are different! Try giving it two values
